@@ -67,31 +67,7 @@ Summarizes key findings, assumptions, limitations, and strategic business recomm
 
 ---
 
-# 📊 Dashboard Preview
 
-## Executive Summary
-
-> *(Insert Screenshot Here)*
-
----
-
-## Financial Performance Analysis
-
-> *(Insert Screenshot Here)*
-
----
-
-## Audience & Content Insights
-
-> *(Insert Screenshot Here)*
-
----
-
-## Insights & Recommendations
-
-> *(Insert Screenshot Here)*
-
----
 
 # 🎯 Key Business Insights
 
