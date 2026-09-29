@@ -167,23 +167,6 @@ Summarizes key findings, assumptions, limitations, and strategic business recomm
 
 ---
 
-# 📂 Repository Structure
-
-```
-TMDB-Movie-Analytics-Dashboard
-│
-├── Dashboard
-│   ├── Mohan_Kumar_TMDB_Movie_Analytics_Dashboard_R3.pbix
-│   └── TMDB_Movie_Analytics_Dashboard.pdf
-│
-├── Images
-│   ├── Executive Summary.png
-│   ├── Financial Performance.png
-│   ├── Audience Insights.png
-│   └── Insights & Recommendations.png
-│
-└── README.md
-```
 
 ---
 
